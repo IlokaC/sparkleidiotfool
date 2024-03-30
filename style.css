@@ -3,10 +3,11 @@
   margin: 0;
   padding: 0;
   font-family: cursive; 
+  background-image: url("part1.jpg");
 }
 body{
   overflow: hidden;
-  background-image: url("part1.jpg");
+  
 }
 section{
   display: flex;
