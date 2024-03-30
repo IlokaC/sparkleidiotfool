@@ -6,6 +6,7 @@
 }
 body{
   overflow: hidden;
+  background-image: url("part1.jpg");
 }
 section{
   display: flex;
