@@ -13,6 +13,7 @@ section{
   align-items: center;
   min-height: 100vh;
   background: linear-gradient(to bottom, #f1f4f9,#dff1ff);
+  background-image: url("")
 }
 section .color{
   position: absolute;
