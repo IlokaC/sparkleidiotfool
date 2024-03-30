@@ -6,7 +6,6 @@
 }
 body{
   overflow: hidden;
-  background-image: url("part1.jpg" height: 5000vh; width: 500px;) ;
 }
 section{
   display: flex;
@@ -14,6 +13,7 @@ section{
   align-items: center;
   min-height: 100vh;
   background: linear-gradient(to bottom, #f1f4f9,#dff1ff);
+  background-image: url("part1.jpg");
 }
 section .color{
   position: absolute;
